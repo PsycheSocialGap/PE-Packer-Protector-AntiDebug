@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MalPacker/MalPacker.csproj" />
+  </Folder>
+  <Project Path="Build.csproj" />
+</Solution>
